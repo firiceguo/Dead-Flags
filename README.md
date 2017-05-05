@@ -1,8 +1,8 @@
 # Projects-Todo
 
-- [x]脚本抓学校的教学视频 [Auto-download-rvc.ust.hk](https://github.com/firiceguo/Auto-download-rvc.ust.hk)
+- [x] 脚本抓学校的教学视频 [Auto-download-rvc.ust.hk](https://github.com/firiceguo/Auto-download-rvc.ust.hk)
 
-- [x]爬虫爬图片：多线程 [get-img](https://github.com/firiceguo/get-img)
+- [x] 爬虫爬图片：多线程 [get-img](https://github.com/firiceguo/get-img)
 
 - [ ] 脚本模仿微信发消息，用`selenium`
 
