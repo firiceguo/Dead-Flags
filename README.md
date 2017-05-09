@@ -4,6 +4,8 @@
 
 - [x] 爬虫爬图片：多线程 [get-img](https://github.com/firiceguo/get-img)
 
+- [ ] LSTM - 音乐
+
 - [ ] 脚本模仿微信发消息，用`selenium`
 
 - [ ] AWS 发短信
